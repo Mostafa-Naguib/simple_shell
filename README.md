@@ -24,6 +24,7 @@ This project is about writing a simple UNIX command interpreter (shell) in C. A 
 ## Authors
 
 - [@Mostafa-Naguib](https://www.github.com/Mostafa-Naguib)
+- [@ELJRAOUYOMAR](https://www.github.com/ELJRAOUYOMAR)
 
 
 ## Installation
